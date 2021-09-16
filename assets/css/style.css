@@ -86,12 +86,13 @@ span.nav-brand{
     position:relative;
 } 
 .home .home-banner-1{
-    background-image:url('../images/slide1.jpg');
-    height: 100%;
+    background-image:url('../images/Home Banner 1.jpg');
+    background-position: 50% center;
+    height: 50%;
     width: 100%;
 }
 .home .home-banner-2{
-    background-image:url('../images/slide2.jpg');
+    background-image:url('../images/Home Banner 2.jpg');
     height: 80%;
     width: 100%;
 }
