@@ -6,7 +6,7 @@ let minItem = document.querySelector("#min");
 let secItem = document.querySelector("#sec");
 
 let countDown = () => {
-    let futureDate = new Date("10 October 2021");
+    let futureDate = new Date("10 October 2022");
     let currentDate = new Date();
     let myDate = futureDate - currentDate;
 
